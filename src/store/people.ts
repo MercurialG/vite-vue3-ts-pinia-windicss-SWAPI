@@ -24,7 +24,7 @@ export const usePeopleStore = defineStore({
   id: 'people',
   state: () => ({characters: [] as Character[]}),
   getters: {
-    characterList(): Array<Object> {
+    characterList(): Array<Character> {
       return this.characters
     }
   },
