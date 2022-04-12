@@ -17,3 +17,6 @@ export default defineComponent({
   },
 });
 </script>
+<style>
+  background-color: black-900;
+</style>

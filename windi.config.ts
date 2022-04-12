@@ -6,11 +6,15 @@ export default defineConfig({
   theme: {
     extend: {
       colors: {
+        hazel: {
+          500: '#594c26'
+        },
         teal: {
           100: '#096',
         },
       },
     },
   },
+  
 })
 

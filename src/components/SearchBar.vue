@@ -1,5 +1,5 @@
 <template>
-    <div class="dark w-vw-20vw mt-10vh mt-10vh mx-auto">
+    <div class="w-vw-20vw mt-10vh mt-10vh mx-auto">
       <input class="
       w-vw-14.8vw
       h-vh-4vh
